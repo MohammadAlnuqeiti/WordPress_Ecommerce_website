@@ -7,7 +7,7 @@
  * and fill in the values.
  *
  * This file contains the following configurations:
- *test update
+ *test update test
  * * Database settings
  * * Secret keys
  * * Database table prefix
