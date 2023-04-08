@@ -1,0 +1,27 @@
+2022-12-27T11:11:42+00:00 INFO Start-Cartflows_Admin_Report_Emails::send_weekly_report_email
+2022-12-27T11:11:42+00:00 INFO Send weekly emails to mohammadalnuqeiti@gmail.com
+2022-12-27T11:11:42+00:00 INFO Total Revenue: 0.00
+2022-12-27T11:11:42+00:00 INFO Start-Cartflows_Admin_Report_Emails::send_weekly_report_email
+2022-12-27T11:11:42+00:00 INFO Send weekly emails to mohammadalnuqeiti@gmail.com
+2022-12-27T11:11:42+00:00 INFO Total Revenue: 0.00
+2022-12-27T11:12:32+00:00 INFO Is weekly report enabled: enable
+2022-12-27T11:12:34+00:00 INFO Is weekly report enabled: enable
+2022-12-27T11:12:56+00:00 INFO Is weekly report enabled: enable
+2022-12-27T11:26:33+00:00 INFO Is weekly report enabled: enable
+2022-12-27T11:26:35+00:00 INFO Is weekly report enabled: enable
+2022-12-27T11:26:37+00:00 INFO Is weekly report enabled: enable
+2022-12-27T11:26:39+00:00 INFO Is weekly report enabled: enable
+2022-12-27T11:26:48+00:00 INFO Is weekly report enabled: enable
+2022-12-27T11:26:49+00:00 INFO Is weekly report enabled: enable
+2022-12-27T11:26:52+00:00 INFO Is weekly report enabled: enable
+2022-12-27T11:26:54+00:00 INFO Is weekly report enabled: enable
+2022-12-27T11:26:56+00:00 INFO Is weekly report enabled: enable
+2022-12-27T11:26:59+00:00 INFO Is weekly report enabled: enable
+2022-12-27T11:27:02+00:00 INFO Is weekly report enabled: enable
+2022-12-27T11:27:03+00:00 INFO Is weekly report enabled: enable
+2022-12-27T11:27:05+00:00 INFO Is weekly report enabled: enable
+2022-12-27T11:27:06+00:00 INFO Is weekly report enabled: enable
+2022-12-27T11:27:11+00:00 INFO Is weekly report enabled: enable
+2022-12-27T11:27:21+00:00 INFO Start-Cartflows_Frontend::redirect_to_thankyou_page
+2022-12-27T11:27:21+00:00 INFO Only for thank you page
+2022-12-27T11:27:21+00:00 INFO End-Cartflows_Frontend::redirect_to_thankyou_page
